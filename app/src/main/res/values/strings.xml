@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Nova Viagem</string>
+    <string name="application_nome">Nova Viagem</string>
+    <string name="destino">Destino</string>
+    <string name="tipo">Tipo</string>
+    <string name="dataIni">Data Início</string>
+    <string name="dataFim">Data Fim</string>
+    <string name="orcamento">Orcçamento</string>
+</resources>
